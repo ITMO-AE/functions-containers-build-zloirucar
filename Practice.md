@@ -28,11 +28,12 @@
 Входной вектор содержит не более 100 строк, длина каждой строки не больше 100 символов.
 
 Пример:
-|words | minLength|	результат|
+
+| words | minLength |	результат|
 |---|---|---|
-|abacaba, aba	|5|	abacaba
-|abacaba, aba	|2|	abacaba, aba
-|weew, bro, code |4|	weew
+|abacaba, aba	|5|	abacaba |
+|abacaba, aba	|2|	abacaba, aba |
+|weew, bro, code |4|	weew |
 
 4.
 Напишите функцию, которая
